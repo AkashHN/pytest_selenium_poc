@@ -1,7 +1,7 @@
 import pytest
 from Tests.UI_Test.BaseTest import BaseTest
 from Pages.loginPage import LoginPage
-from Tests.UI_Test.configtest import init_driver, login_data, assertion_data
+from Tests.configtest import init_driver, login_data, assertion_data
 
 
 class Test_Login(BaseTest):

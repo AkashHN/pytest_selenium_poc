@@ -1,6 +1,6 @@
 from Tests.UI_Test.BaseTest import BaseTest
 from Pages.homePage import HomePage
-from Tests.UI_Test.configtest import init_driver, assertion_data
+from Tests.configtest import init_driver, assertion_data
 import pytest
 
 

@@ -1,4 +1,5 @@
 import requests
+from Tests.configtest import get_api_data
 
 
 def test_get_current_weather(get_api_data):
